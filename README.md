@@ -21,6 +21,7 @@ To get started with this repository:
 - Repository Management
 - File Operations
 - Issue Tracking
+- MCP features
 
 ## 🛠️ Technologies
 
